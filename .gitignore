@@ -1,0 +1,32 @@
+# RStudio and local session state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+
+# RStudio export archives
+rstudio-export.zip
+
+# Compiled model and build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Extensionless CmdStan executables in this import
+/pipeline_area/time_results/normal_logit_linear
+/pipeline_area/time_results/normal_logit_no_time
+/pipeline_area/time_results/normal_logit_spline
+/pipeline_area/time_results/normal_logit_step
+/pipeline_widthabs/time_results/normal_width_linear
+/pipeline_widthabs/time_results/normal_width_no_time
+/pipeline_widthabs/time_results/normal_width_spline
+/pipeline_widthabs/time_results/normal_width_step
+/pipeline_width_rel/time_results/normal_rel_width_logit_linear
+/pipeline_width_rel/time_results/normal_rel_width_logit_no_time
+/pipeline_width_rel/time_results/normal_rel_width_logit_spline
+/pipeline_width_rel/time_results/normal_rel_width_logit_step
