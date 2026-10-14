@@ -1,0 +1,916 @@
+"year","magazine_1","magazine_2","n_1","n_2","js_divergence"
+1900,"Fotografický obzor","Nový kult",11,9,0.28573678338572
+1900,"Fotografický obzor","Nový život",11,58,0.296216453916788
+1900,"Nový kult","Nový život",9,58,0.325445171623172
+1901,"Nový kult","Nový život",17,80,0.233313487466199
+1901,"Nový kult","Typografia",17,143,0.245819190908736
+1901,"Nový kult","Volné směry",17,6,0.459892944243722
+1901,"Nový život","Typografia",80,143,0.143337832159748
+1901,"Nový život","Volné směry",80,6,0.318496075057559
+1901,"Typografia","Volné směry",143,6,0.238232888403264
+1902,"Nový kult","Nový život",39,69,0.0874655894561769
+1902,"Nový kult","Typografia",39,21,0.253419107612483
+1902,"Nový kult","Volné směry",39,5,0.523485490966826
+1902,"Nový život","Typografia",69,21,0.193202617044392
+1902,"Nový život","Volné směry",69,5,0.476584840311631
+1902,"Typografia","Volné směry",21,5,0.451657219087217
+1903,"Nový kult","Nový život",9,70,0.274254979136762
+1904,"Nový kult","Nový život",6,28,0.445861527813038
+1904,"Nový kult","Typografia",6,70,0.316670413037079
+1904,"Nový kult","Volné směry",6,6,0.462098120373297
+1904,"Nový život","Typografia",28,70,0.160657062747867
+1904,"Nový život","Volné směry",28,6,0.365739561527687
+1904,"Typografia","Volné směry",70,6,0.250748722857633
+1905,"Nový život","Typografia",13,76,0.246245610526923
+1906,"Nový život","Typografia",82,40,0.0899492130615154
+1906,"Nový život","Volné směry",82,5,0.394476086074482
+1906,"Nový život","Wir",82,5,0.457545918958313
+1906,"Typografia","Volné směry",40,5,0.448021239256681
+1906,"Typografia","Wir",40,5,0.344449239556507
+1906,"Volné směry","Wir",5,5,0.693147180559945
+1907,"Fotografický obzor","Nový život",24,89,0.142409488146999
+1907,"Fotografický obzor","Typografia",24,86,0.228606878940548
+1907,"Nový život","Typografia",89,86,0.0420173339427404
+1909,"Fotografický obzor","Typografia",46,154,0.0999799613811635
+1911,"Fotografický obzor","Typografia",100,102,0.118333900118906
+1912,"Archa","Typografia",132,79,0.0991941988100971
+1912,"Archa","Umelecky_mesicnik",132,439,0.149017065063463
+1912,"Typografia","Umelecky_mesicnik",79,439,0.0990109691794568
+1913,"Archa","Topičův sborník literární a umělecký",64,43,0.320612240918586
+1913,"Archa","Typografia",64,61,0.295620546873177
+1913,"Archa","Umelecky_mesicnik",64,52,0.364551119946539
+1913,"Topičův sborník literární a umělecký","Typografia",43,61,0.121219857910164
+1913,"Topičův sborník literární a umělecký","Umelecky_mesicnik",43,52,0.2187975453614
+1913,"Typografia","Umelecky_mesicnik",61,52,0.244200437362962
+1914,"Archa","Topičův sborník literární a umělecký",14,179,0.383299446278101
+1914,"Archa","Typografia",14,42,0.212457082023727
+1914,"Topičův sborník literární a umělecký","Typografia",179,42,0.206211838606839
+1915,"Archa","Fotografický obzor",51,32,0.328865487332289
+1915,"Archa","Topičův sborník literární a umělecký",51,173,0.373823330496935
+1915,"Fotografický obzor","Topičův sborník literární a umělecký",32,173,0.187626011570065
+1916,"Archa","Fotografický obzor",80,34,0.19624445690839
+1916,"Archa","Topičův sborník literární a umělecký",80,141,0.370133243419121
+1916,"Fotografický obzor","Topičův sborník literární a umělecký",34,141,0.218010198492332
+1917,"Fotografický obzor","Topičův sborník literární a umělecký",18,123,0.21196180663167
+1918,"Fotografický obzor","Topičův sborník literární a umělecký",16,101,0.181881530697548
+1918,"Fotografický obzor","Typografia",16,27,0.215949476805498
+1918,"Fotografický obzor","Umění",16,44,0.253085034982826
+1918,"Topičův sborník literární a umělecký","Typografia",101,27,0.303125412996841
+1918,"Topičův sborník literární a umělecký","Umění",101,44,0.055176504335827
+1918,"Typografia","Umění",27,44,0.311900620888709
+1919,"Fotografický obzor","Topičův sborník literární a umělecký",6,128,0.283838442222485
+1919,"Fotografický obzor","Umění",6,53,0.452538452858201
+1919,"Topičův sborník literární a umělecký","Umění",128,53,0.16500051693893
+1920,"Archa","Drobné umění",26,133,0.0692433265244168
+1920,"Archa","Fotografický obzor",26,8,0.415896608388745
+1920,"Archa","Musaion",26,19,0.472574047361215
+1920,"Archa","Stavitel",26,216,0.106788099753281
+1920,"Archa","Styl_(Spolek_vytvarnych_umelcu_Manes",26,34,0.117646136060467
+1920,"Archa","Topičův sborník literární a umělecký",26,99,0.398093484661184
+1920,"Archa","Typografia",26,18,0.433714254173939
+1920,"Archa","Volné směry",26,112,0.383946114040043
+1920,"Drobné umění","Fotografický obzor",133,8,0.287382732953736
+1920,"Drobné umění","Musaion",133,19,0.430181922917524
+1920,"Drobné umění","Stavitel",133,216,0.0526435403102223
+1920,"Drobné umění","Styl_(Spolek_vytvarnych_umelcu_Manes",133,34,0.0720010610775332
+1920,"Drobné umění","Topičův sborník literární a umělecký",133,99,0.369448782810168
+1920,"Drobné umění","Typografia",133,18,0.341887549604316
+1920,"Drobné umění","Volné směry",133,112,0.365289886248808
+1920,"Fotografický obzor","Musaion",8,19,0.420455124281213
+1920,"Fotografický obzor","Stavitel",8,216,0.233801851874697
+1920,"Fotografický obzor","Styl_(Spolek_vytvarnych_umelcu_Manes",8,34,0.238237066332433
+1920,"Fotografický obzor","Topičův sborník literární a umělecký",8,99,0.461506230431938
+1920,"Fotografický obzor","Typografia",8,18,0.362726516265047
+1920,"Fotografický obzor","Volné směry",8,112,0.377275499453857
+1920,"Musaion","Stavitel",19,216,0.394071787287536
+1920,"Musaion","Styl_(Spolek_vytvarnych_umelcu_Manes",19,34,0.39082706993028
+1920,"Musaion","Topičův sborník literární a umělecký",19,99,0.0502840461304938
+1920,"Musaion","Typografia",19,18,0.224786419074611
+1920,"Musaion","Volné směry",19,112,0.0819681891178751
+1920,"Stavitel","Styl_(Spolek_vytvarnych_umelcu_Manes",216,34,0.0296928784031159
+1920,"Stavitel","Topičův sborník literární a umělecký",216,99,0.314955080227999
+1920,"Stavitel","Typografia",216,18,0.263167068413031
+1920,"Stavitel","Volné směry",216,112,0.305606101082521
+1920,"Styl_(Spolek_vytvarnych_umelcu_Manes","Topičův sborník literární a umělecký",34,99,0.323680514732134
+1920,"Styl_(Spolek_vytvarnych_umelcu_Manes","Typografia",34,18,0.257338629111006
+1920,"Styl_(Spolek_vytvarnych_umelcu_Manes","Volné směry",34,112,0.271892193493683
+1920,"Topičův sborník literární a umělecký","Typografia",99,18,0.14051335762645
+1920,"Topičův sborník literární a umělecký","Volné směry",99,112,0.0832282188935184
+1920,"Typografia","Volné směry",18,112,0.203305804804903
+1921,"Archa","Drobné umění",24,212,0.181618883000774
+1921,"Archa","Fotografický obzor",24,12,0.360274331337635
+1921,"Archa","Topičův sborník literární a umělecký",24,96,0.469118725456646
+1921,"Archa","Typografia",24,50,0.226732808804392
+1921,"Archa","Umění",24,63,0.431820848425341
+1921,"Archa","Výtvarná práce",24,74,0.215860245107613
+1921,"Drobné umění","Fotografický obzor",212,12,0.454605486798012
+1921,"Drobné umění","Topičův sborník literární a umělecký",212,96,0.370429877184269
+1921,"Drobné umění","Typografia",212,50,0.201455709713587
+1921,"Drobné umění","Umění",212,63,0.265651078186789
+1921,"Drobné umění","Výtvarná práce",212,74,0.0713994589661969
+1921,"Fotografický obzor","Topičův sborník literární a umělecký",12,96,0.336833552755214
+1921,"Fotografický obzor","Typografia",12,50,0.283318545239163
+1921,"Fotografický obzor","Umění",12,63,0.432086547178572
+1921,"Fotografický obzor","Výtvarná práce",12,74,0.491459733056218
+1921,"Topičův sborník literární a umělecký","Typografia",96,50,0.144461022873758
+1921,"Topičův sborník literární a umělecký","Umění",96,63,0.12431255274889
+1921,"Topičův sborník literární a umělecký","Výtvarná práce",96,74,0.382028959808857
+1921,"Typografia","Umění",50,63,0.179983564025081
+1921,"Typografia","Výtvarná práce",50,74,0.261785542911606
+1921,"Umění","Výtvarná práce",63,74,0.3486787393358
+1922,"Archa","Drobné umění",26,76,0.269396100187001
+1922,"Archa","Fotografický obzor",26,67,0.248185906356181
+1922,"Archa","Host",26,5,0.491727307363577
+1922,"Archa","Revolucni_sbornik_Devetsil",26,42,0.345385272253577
+1922,"Archa","Topičův sborník literární a umělecký",26,121,0.482157685365723
+1922,"Archa","Typografia",26,70,0.22963640131388
+1922,"Drobné umění","Fotografický obzor",76,67,0.257723637215078
+1922,"Drobné umění","Host",76,5,0.405585870609494
+1922,"Drobné umění","Revolucni_sbornik_Devetsil",76,42,0.102153100938852
+1922,"Drobné umění","Topičův sborník literární a umělecký",76,121,0.305439053942272
+1922,"Drobné umění","Typografia",76,70,0.152681659401315
+1922,"Fotografický obzor","Host",67,5,0.323619421402849
+1922,"Fotografický obzor","Revolucni_sbornik_Devetsil",67,42,0.21587230382619
+1922,"Fotografický obzor","Topičův sborník literární a umělecký",67,121,0.283746983418729
+1922,"Fotografický obzor","Typografia",67,70,0.165441267613999
+1922,"Host","Revolucni_sbornik_Devetsil",5,42,0.224495971452131
+1922,"Host","Topičův sborník literární a umělecký",5,121,0.0914307062554033
+1922,"Host","Typografia",5,70,0.396948909676962
+1922,"Revolucni_sbornik_Devetsil","Topičův sborník literární a umělecký",42,121,0.183698626096903
+1922,"Revolucni_sbornik_Devetsil","Typografia",42,70,0.170584974030615
+1922,"Topičův sborník literární a umělecký","Typografia",121,70,0.361217040923474
+1923,"Archa","Disk",33,16,0.380343746616796
+1923,"Archa","Drobné umění",33,127,0.261110068629652
+1923,"Archa","Fotografický obzor",33,100,0.111402029211622
+1923,"Archa","Host",33,13,0.211539678884129
+1923,"Archa","Musaion",33,69,0.318875510350311
+1923,"Archa","Topičův sborník literární a umělecký",33,107,0.15246069546267
+1923,"Archa","Typografia",33,43,0.103635860448551
+1923,"Archa","Výtvarná práce",33,294,0.152873842325058
+1923,"Disk","Drobné umění",16,127,0.185599590431888
+1923,"Disk","Fotografický obzor",16,100,0.295606731665665
+1923,"Disk","Host",16,13,0.452832796054836
+1923,"Disk","Musaion",16,69,0.693147180559945
+1923,"Disk","Topičův sborník literární a umělecký",16,107,0.508102727921529
+1923,"Disk","Typografia",16,43,0.341754217317528
+1923,"Disk","Výtvarná práce",16,294,0.307711650366906
+1923,"Drobné umění","Fotografický obzor",127,100,0.16502758076303
+1923,"Drobné umění","Host",127,13,0.228055810672445
+1923,"Drobné umění","Musaion",127,69,0.577080143136298
+1923,"Drobné umění","Topičův sborník literární a umělecký",127,107,0.307009083319016
+1923,"Drobné umění","Typografia",127,43,0.195306238859788
+1923,"Drobné umění","Výtvarná práce",127,294,0.0980159394205718
+1923,"Fotografický obzor","Host",100,13,0.145141542359159
+1923,"Fotografický obzor","Musaion",100,69,0.336952001952079
+1923,"Fotografický obzor","Topičův sborník literární a umělecký",100,107,0.145776577269253
+1923,"Fotografický obzor","Typografia",100,43,0.0632766642341494
+1923,"Fotografický obzor","Výtvarná práce",100,294,0.0777000552917292
+1923,"Host","Musaion",13,69,0.201500217931666
+1923,"Host","Topičův sborník literární a umělecký",13,107,0.0565042375281844
+1923,"Host","Typografia",13,43,0.208449046736732
+1923,"Host","Výtvarná práce",13,294,0.0935756104758682
+1923,"Musaion","Topičův sborník literární a umělecký",69,107,0.192085921397185
+1923,"Musaion","Typografia",69,43,0.34699657429412
+1923,"Musaion","Výtvarná práce",69,294,0.349325277562567
+1923,"Topičův sborník literární a umělecký","Typografia",107,43,0.215371649455111
+1923,"Topičův sborník literární a umělecký","Výtvarná práce",107,294,0.167992215790403
+1923,"Typografia","Výtvarná práce",43,294,0.0815807033957097
+1924,"Archa","Bytová kultura",19,375,0.254685072270207
+1924,"Archa","Drobné umění",19,282,0.367220935240731
+1924,"Archa","Fotografický obzor",19,95,0.49126260241815
+1924,"Archa","Topičův sborník literární a umělecký",19,117,0.598841912705178
+1924,"Archa","Typografia",19,102,0.364419713912158
+1924,"Archa","Výtvarná práce",19,300,0.418220532266085
+1924,"Bytová kultura","Drobné umění",375,282,0.0843748408872445
+1924,"Bytová kultura","Fotografický obzor",375,95,0.296743835763561
+1924,"Bytová kultura","Topičův sborník literární a umělecký",375,117,0.395306155367539
+1924,"Bytová kultura","Typografia",375,102,0.0572087785826476
+1924,"Bytová kultura","Výtvarná práce",375,300,0.164400095371434
+1924,"Drobné umění","Fotografický obzor",282,95,0.345482798754932
+1924,"Drobné umění","Topičův sborník literární a umělecký",282,117,0.264397010832705
+1924,"Drobné umění","Typografia",282,102,0.0656815917262806
+1924,"Drobné umění","Výtvarná práce",282,300,0.102687610297682
+1924,"Fotografický obzor","Topičův sborník literární a umělecký",95,117,0.294695404822457
+1924,"Fotografický obzor","Typografia",95,102,0.279019383362654
+1924,"Fotografický obzor","Výtvarná práce",95,300,0.157560442606325
+1924,"Topičův sborník literární a umělecký","Typografia",117,102,0.292266102623581
+1924,"Topičův sborník literární a umělecký","Výtvarná práce",117,300,0.0953657025012014
+1924,"Typografia","Výtvarná práce",102,300,0.115137652181417
+1925,"Disk","Drobné umění",17,187,0.206988511997189
+1925,"Disk","Fotografický obzor",17,101,0.400373135015197
+1925,"Disk","Musaion",17,30,0.653296477716365
+1925,"Disk","Topičův sborník literární a umělecký",17,157,0.232968717326107
+1925,"Disk","Typografia",17,135,0.0954336726822552
+1925,"Disk","Výtvarná práce",17,161,0.283817936859294
+1925,"Drobné umění","Fotografický obzor",187,101,0.449136085833628
+1925,"Drobné umění","Musaion",187,30,0.522190859900369
+1925,"Drobné umění","Topičův sborník literární a umělecký",187,157,0.118910158508174
+1925,"Drobné umění","Typografia",187,135,0.131298909303425
+1925,"Drobné umění","Výtvarná práce",187,161,0.13631066422849
+1925,"Fotografický obzor","Musaion",101,30,0.231625049215463
+1925,"Fotografický obzor","Topičův sborník literární a umělecký",101,157,0.334675427628007
+1925,"Fotografický obzor","Typografia",101,135,0.276560715542122
+1925,"Fotografický obzor","Výtvarná práce",101,161,0.304526494831925
+1925,"Musaion","Topičův sborník literární a umělecký",30,157,0.43296204120515
+1925,"Musaion","Typografia",30,135,0.480080602129279
+1925,"Musaion","Výtvarná práce",30,161,0.250675794244895
+1925,"Topičův sborník literární a umělecký","Typografia",157,135,0.191511905074071
+1925,"Topičův sborník literární a umělecký","Výtvarná práce",157,161,0.145101115891047
+1925,"Typografia","Výtvarná práce",135,161,0.162652862651027
+1926,"Fotografický obzor","Topičův sborník literární a umělecký",85,193,0.363239195187651
+1926,"Fotografický obzor","Typografia",85,158,0.174241588008648
+1926,"Fotografický obzor","Volné směry",85,5,0.378903098155817
+1926,"Fotografický obzor","Výtvarná práce",85,170,0.253626381754692
+1926,"Fotografický obzor","Výtvarné snahy",85,439,0.33621329186978
+1926,"Topičův sborník literární a umělecký","Typografia",193,158,0.121626964620774
+1926,"Topičův sborník literární a umělecký","Volné směry",193,5,0.488658749599941
+1926,"Topičův sborník literární a umělecký","Výtvarná práce",193,170,0.0557270103131544
+1926,"Topičův sborník literární a umělecký","Výtvarné snahy",193,439,0.0268764501430167
+1926,"Typografia","Volné směry",158,5,0.488540010957137
+1926,"Typografia","Výtvarná práce",158,170,0.119729193896749
+1926,"Typografia","Výtvarné snahy",158,439,0.090393499877277
+1926,"Volné směry","Výtvarná práce",5,170,0.439378081779356
+1926,"Volné směry","Výtvarné snahy",5,439,0.585646059972276
+1926,"Výtvarná práce","Výtvarné snahy",170,439,0.0599956995155968
+1927,"Fotografický obzor","Musaion",114,42,0.279292325407471
+1927,"Fotografický obzor","Panorama",114,79,0.343564799577806
+1927,"Fotografický obzor","Typografia",114,108,0.283893787335577
+1927,"Musaion","Panorama",42,79,0.390672963422105
+1927,"Musaion","Typografia",42,108,0.40669165946081
+1927,"Panorama","Typografia",79,108,0.0535342010625905
+1928,"Fotografický obzor","Nové směry",121,265,0.266842490393603
+1928,"Fotografický obzor","Panorama",121,88,0.345506687459737
+1928,"Fotografický obzor","Typografia",121,109,0.240481827358682
+1928,"Fotografický obzor","Volné směry",121,27,0.232839195620246
+1928,"Fotografický obzor","Výtvarné snahy",121,406,0.246247040095799
+1928,"Nové směry","Panorama",265,88,0.0788241880728055
+1928,"Nové směry","Typografia",265,109,0.0637452235924044
+1928,"Nové směry","Volné směry",265,27,0.362333029652906
+1928,"Nové směry","Výtvarné snahy",265,406,0.0688536988836154
+1928,"Panorama","Typografia",88,109,0.088085484074718
+1928,"Panorama","Volné směry",88,27,0.279006576065732
+1928,"Panorama","Výtvarné snahy",88,406,0.0472303241384404
+1928,"Typografia","Volné směry",109,27,0.292010910683205
+1928,"Typografia","Výtvarné snahy",109,406,0.065687641619628
+1928,"Volné směry","Výtvarné snahy",27,406,0.22426517285223
+1929,"Archa","Fotografický obzor",28,119,0.145437096692261
+1929,"Archa","Index",28,44,0.141266781409986
+1929,"Archa","Nové směry",28,268,0.151459265472349
+1929,"Archa","Panorama",28,210,0.106957700749897
+1929,"Archa","Pestrý týden",28,5,0.333938432996018
+1929,"Archa","Plan",28,29,0.161108487692477
+1929,"Archa","Typografia",28,188,0.109717201522018
+1929,"Archa","Umění",28,718,0.104385957167648
+1929,"Archa","Volné směry",28,18,0.253707279780023
+1929,"Archa","Výtvarné snahy",28,216,0.0894881367409381
+1929,"Fotografický obzor","Index",119,44,0.380401568857169
+1929,"Fotografický obzor","Nové směry",119,268,0.337197772865418
+1929,"Fotografický obzor","Panorama",119,210,0.321789865531969
+1929,"Fotografický obzor","Pestrý týden",119,5,0.422180918985467
+1929,"Fotografický obzor","Plan",119,29,0.0977441516600541
+1929,"Fotografický obzor","Typografia",119,188,0.330834324692147
+1929,"Fotografický obzor","Umění",119,718,0.0960370827034782
+1929,"Fotografický obzor","Volné směry",119,18,0.256092656219824
+1929,"Fotografický obzor","Výtvarné snahy",119,216,0.240462568958746
+1929,"Index","Nové směry",44,268,0.0815939760602437
+1929,"Index","Panorama",44,210,0.144890742611672
+1929,"Index","Pestrý týden",44,5,0.227380792351064
+1929,"Index","Plan",44,29,0.412245468183505
+1929,"Index","Typografia",44,188,0.0549859662558138
+1929,"Index","Umění",44,718,0.303372976302919
+1929,"Index","Volné směry",44,18,0.476248718782107
+1929,"Index","Výtvarné snahy",44,216,0.0916131160151351
+1929,"Nové směry","Panorama",268,210,0.149727244795609
+1929,"Nové směry","Pestrý týden",268,5,0.236825230128005
+1929,"Nové směry","Plan",268,29,0.413224853287618
+1929,"Nové směry","Typografia",268,188,0.0467464137399866
+1929,"Nové směry","Umění",268,718,0.337998593710112
+1929,"Nové směry","Volné směry",268,18,0.453314971127138
+1929,"Nové směry","Výtvarné snahy",268,216,0.132655711162471
+1929,"Panorama","Pestrý týden",210,5,0.305177381543447
+1929,"Panorama","Plan",210,29,0.260040749346879
+1929,"Panorama","Typografia",210,188,0.0648153241515778
+1929,"Panorama","Umění",210,718,0.177307010817808
+1929,"Panorama","Volné směry",210,18,0.224914276854838
+1929,"Panorama","Výtvarné snahy",210,216,0.0567150171950958
+1929,"Pestrý týden","Plan",5,29,0.502338752055665
+1929,"Pestrý týden","Typografia",5,188,0.229817763042819
+1929,"Pestrý týden","Umění",5,718,0.381769391337783
+1929,"Pestrý týden","Volné směry",5,18,0.530741526610016
+1929,"Pestrý týden","Výtvarné snahy",5,216,0.221200311072375
+1929,"Plan","Typografia",29,188,0.337129323931291
+1929,"Plan","Umění",29,718,0.076848351625607
+1929,"Plan","Volné směry",29,18,0.152974750654387
+1929,"Plan","Výtvarné snahy",29,216,0.227742879489323
+1929,"Typografia","Umění",188,718,0.261542546265564
+1929,"Typografia","Volné směry",188,18,0.378309099727586
+1929,"Typografia","Výtvarné snahy",188,216,0.0666567294305915
+1929,"Umění","Volné směry",718,18,0.150464299660784
+1929,"Umění","Výtvarné snahy",718,216,0.126925765417151
+1929,"Volné směry","Výtvarné snahy",18,216,0.296959384351113
+1930,"Archa","Aventinský magazín",17,482,0.136133593884158
+1930,"Archa","Fotografický obzor",17,124,0.0936544368812335
+1930,"Archa","Index",17,66,0.390491939184562
+1930,"Archa","Kvart",17,5,0.338062665807733
+1930,"Archa","Nové směry",17,343,0.303864578688556
+1930,"Archa","Ročenka Štencova nakladatelství na rok",17,26,0.149263444377357
+1930,"Archa","Typografia",17,181,0.277788590087295
+1930,"Aventinský magazín","Fotografický obzor",482,124,0.183340566088167
+1930,"Aventinský magazín","Index",482,66,0.277265727902894
+1930,"Aventinský magazín","Kvart",482,5,0.285359443888323
+1930,"Aventinský magazín","Nové směry",482,343,0.242500672279445
+1930,"Aventinský magazín","Ročenka Štencova nakladatelství na rok",482,26,0.342950322227547
+1930,"Aventinský magazín","Typografia",482,181,0.145194796500666
+1930,"Fotografický obzor","Index",124,66,0.353255559795987
+1930,"Fotografický obzor","Kvart",124,5,0.419001532297694
+1930,"Fotografický obzor","Nové směry",124,343,0.33098756009191
+1930,"Fotografický obzor","Ročenka Štencova nakladatelství na rok",124,26,0.151824891473665
+1930,"Fotografický obzor","Typografia",124,181,0.277582162244972
+1930,"Index","Kvart",66,5,0.660631508598003
+1930,"Index","Nové směry",66,343,0.113661833849546
+1930,"Index","Ročenka Štencova nakladatelství na rok",66,26,0.580128209690433
+1930,"Index","Typografia",66,181,0.0956391256585356
+1930,"Kvart","Nové směry",5,343,0.613347231850826
+1930,"Kvart","Ročenka Štencova nakladatelství na rok",5,26,0.441306765817795
+1930,"Kvart","Typografia",5,181,0.509590462256982
+1930,"Nové směry","Ročenka Štencova nakladatelství na rok",343,26,0.53619627102479
+1930,"Nové směry","Typografia",343,181,0.075346862222042
+1930,"Ročenka Štencova nakladatelství na rok","Typografia",26,181,0.514032241001913
+1931,"Archa","Aventinský magazín",19,660,0.116338985347813
+1931,"Archa","Byt_a_umeni",19,301,0.100656894442879
+1931,"Archa","Československá fotografie",19,64,0.350774980364739
+1931,"Archa","Fotografický obzor",19,135,0.239128851089402
+1931,"Archa","Index",19,112,0.404851690889387
+1931,"Archa","Kvart",19,11,0.207435459840829
+1931,"Archa","Nové směry",19,261,0.390585964761462
+1931,"Archa","Panorama",19,148,0.117663541110763
+1931,"Archa","Typografia",19,209,0.213326123549271
+1931,"Archa","Umění",19,391,0.111271082191359
+1931,"Archa","Volné směry",19,9,0.34208422842825
+1931,"Aventinský magazín","Byt_a_umeni",660,301,0.048753180294407
+1931,"Aventinský magazín","Československá fotografie",660,64,0.323512520500459
+1931,"Aventinský magazín","Fotografický obzor",660,135,0.170978285556568
+1931,"Aventinský magazín","Index",660,112,0.287314815175062
+1931,"Aventinský magazín","Kvart",660,11,0.132255545885319
+1931,"Aventinský magazín","Nové směry",660,261,0.251398932459896
+1931,"Aventinský magazín","Panorama",660,148,0.0149312837951866
+1931,"Aventinský magazín","Typografia",660,209,0.0946287075384847
+1931,"Aventinský magazín","Umění",660,391,0.0772948018022168
+1931,"Aventinský magazín","Volné směry",660,9,0.248717168535237
+1931,"Byt_a_umeni","Československá fotografie",301,64,0.258841039326137
+1931,"Byt_a_umeni","Fotografický obzor",301,135,0.101135744552645
+1931,"Byt_a_umeni","Index",301,112,0.275871297485821
+1931,"Byt_a_umeni","Kvart",301,11,0.216500283152538
+1931,"Byt_a_umeni","Nové směry",301,261,0.217976102317276
+1931,"Byt_a_umeni","Panorama",301,148,0.0467386037144113
+1931,"Byt_a_umeni","Typografia",301,209,0.0647327592647749
+1931,"Byt_a_umeni","Umění",301,391,0.0354868199536704
+1931,"Byt_a_umeni","Volné směry",301,9,0.218840942208742
+1931,"Československá fotografie","Fotografický obzor",64,135,0.0846419340959731
+1931,"Československá fotografie","Index",64,112,0.5884515980226
+1931,"Československá fotografie","Kvart",64,11,0.596371621426087
+1931,"Československá fotografie","Nové směry",64,261,0.543942837489676
+1931,"Československá fotografie","Panorama",64,148,0.291393736940849
+1931,"Československá fotografie","Typografia",64,209,0.40860084318666
+1931,"Československá fotografie","Umění",64,391,0.227185431941039
+1931,"Československá fotografie","Volné směry",64,9,0.231144870536861
+1931,"Fotografický obzor","Index",135,112,0.352005953769932
+1931,"Fotografický obzor","Kvart",135,11,0.449234775691353
+1931,"Fotografický obzor","Nové směry",135,261,0.31101138863197
+1931,"Fotografický obzor","Panorama",135,148,0.143599989668752
+1931,"Fotografický obzor","Typografia",135,209,0.187561775092152
+1931,"Fotografický obzor","Umění",135,391,0.142144590894062
+1931,"Fotografický obzor","Volné směry",135,9,0.261298089338687
+1931,"Index","Kvart",112,11,0.294602060212707
+1931,"Index","Nové směry",112,261,0.170448045601421
+1931,"Index","Panorama",112,148,0.298171332470498
+1931,"Index","Typografia",112,209,0.138276649396974
+1931,"Index","Umění",112,391,0.38559603368662
+1931,"Index","Volné směry",112,9,0.502182003963552
+1931,"Kvart","Nové směry",11,261,0.313862305378336
+1931,"Kvart","Panorama",11,148,0.166358809337215
+1931,"Kvart","Typografia",11,209,0.19269964490051
+1931,"Kvart","Umění",11,391,0.209816017585775
+1931,"Kvart","Volné směry",11,9,0.299545599649434
+1931,"Nové směry","Panorama",261,148,0.255452214304464
+1931,"Nové směry","Typografia",261,209,0.0939809369418427
+1931,"Nové směry","Umění",261,391,0.318251105623532
+1931,"Nové směry","Volné směry",261,9,0.451693454271032
+1931,"Panorama","Typografia",148,209,0.0878293707369704
+1931,"Panorama","Umění",148,391,0.0768568720322144
+1931,"Panorama","Volné směry",148,9,0.263544213714519
+1931,"Typografia","Umění",209,391,0.13422608019666
+1931,"Typografia","Volné směry",209,9,0.312474507786371
+1931,"Umění","Volné směry",391,9,0.136783176773227
+1932,"Archa","Aventinský magazín",13,316,0.219141141719352
+1932,"Archa","Československá fotografie",13,70,0.294655747899292
+1932,"Archa","Fotografický obzor",13,96,0.265024036973182
+1932,"Archa","Index",13,16,0.311974388631824
+1932,"Archa","Jak_zijeme",13,272,0.321543622664761
+1932,"Archa","Měsíc",13,374,0.210426901801586
+1932,"Archa","Nové směry",13,280,0.480422387490964
+1932,"Archa","Panorama",13,307,0.305523654918888
+1932,"Archa","Ročenka Štencova nakladatelství na rok",13,16,0.0962331086069408
+1932,"Archa","Typografia",13,110,0.457632139320501
+1932,"Archa","Umění",13,789,0.173386198947298
+1932,"Aventinský magazín","Československá fotografie",316,70,0.259328914793075
+1932,"Aventinský magazín","Fotografický obzor",316,96,0.235390940080633
+1932,"Aventinský magazín","Index",316,16,0.24292255568828
+1932,"Aventinský magazín","Jak_zijeme",316,272,0.14431390217288
+1932,"Aventinský magazín","Měsíc",316,374,0.06386400661751
+1932,"Aventinský magazín","Nové směry",316,280,0.335521778055668
+1932,"Aventinský magazín","Panorama",316,307,0.128692518960601
+1932,"Aventinský magazín","Ročenka Štencova nakladatelství na rok",316,16,0.27439202317077
+1932,"Aventinský magazín","Typografia",316,110,0.302652826831236
+1932,"Aventinský magazín","Umění",316,789,0.0766933195278706
+1932,"Československá fotografie","Fotografický obzor",70,96,0.148090520596019
+1932,"Československá fotografie","Index",70,16,0.369127449600339
+1932,"Československá fotografie","Jak_zijeme",70,272,0.338433312754448
+1932,"Československá fotografie","Měsíc",70,374,0.252279026325076
+1932,"Československá fotografie","Nové směry",70,280,0.411666832551319
+1932,"Československá fotografie","Panorama",70,307,0.322056558450778
+1932,"Československá fotografie","Ročenka Štencova nakladatelství na rok",70,16,0.327105907721604
+1932,"Československá fotografie","Typografia",70,110,0.413324684808157
+1932,"Československá fotografie","Umění",70,789,0.266486823521308
+1932,"Fotografický obzor","Index",96,16,0.19607292486833
+1932,"Fotografický obzor","Jak_zijeme",96,272,0.159782440393347
+1932,"Fotografický obzor","Měsíc",96,374,0.140600803373243
+1932,"Fotografický obzor","Nové směry",96,280,0.275066409770066
+1932,"Fotografický obzor","Panorama",96,307,0.154235138046621
+1932,"Fotografický obzor","Ročenka Štencova nakladatelství na rok",96,16,0.289744629657575
+1932,"Fotografický obzor","Typografia",96,110,0.299360782484559
+1932,"Fotografický obzor","Umění",96,789,0.165912489678244
+1932,"Index","Jak_zijeme",16,272,0.121770241202909
+1932,"Index","Měsíc",16,374,0.106641170406668
+1932,"Index","Nové směry",16,280,0.18608418358348
+1932,"Index","Panorama",16,307,0.100581378747791
+1932,"Index","Ročenka Štencova nakladatelství na rok",16,16,0.457523914504987
+1932,"Index","Typografia",16,110,0.113604150075933
+1932,"Index","Umění",16,789,0.135233256739115
+1932,"Jak_zijeme","Měsíc",272,374,0.0838406351486405
+1932,"Jak_zijeme","Nové směry",272,280,0.197002650485708
+1932,"Jak_zijeme","Panorama",272,307,0.0466636840305816
+1932,"Jak_zijeme","Ročenka Štencova nakladatelství na rok",272,16,0.421933647999124
+1932,"Jak_zijeme","Typografia",272,110,0.184469043449228
+1932,"Jak_zijeme","Umění",272,789,0.0676142796253857
+1932,"Měsíc","Nové směry",374,280,0.200840499201896
+1932,"Měsíc","Panorama",374,307,0.0501712409358673
+1932,"Měsíc","Ročenka Štencova nakladatelství na rok",374,16,0.306193334737273
+1932,"Měsíc","Typografia",374,110,0.166419565988472
+1932,"Měsíc","Umění",374,789,0.050554590428919
+1932,"Nové směry","Panorama",280,307,0.123445352237453
+1932,"Nové směry","Ročenka Štencova nakladatelství na rok",280,16,0.630185042450726
+1932,"Nové směry","Typografia",280,110,0.036652238647228
+1932,"Nové směry","Umění",280,789,0.290471704816499
+1932,"Panorama","Ročenka Štencova nakladatelství na rok",307,16,0.40611765307945
+1932,"Panorama","Typografia",307,110,0.116596838245931
+1932,"Panorama","Umění",307,789,0.0990580975293481
+1932,"Ročenka Štencova nakladatelství na rok","Typografia",16,110,0.630517025158427
+1932,"Ročenka Štencova nakladatelství na rok","Umění",16,789,0.258505108125466
+1932,"Typografia","Umění",110,789,0.248799026346292
+1933,"Archa","Československá fotografie",11,60,0.154442827679661
+1933,"Archa","DerMonat",11,56,0.230945629260417
+1933,"Archa","Fotografický obzor",11,85,0.196145282403849
+1933,"Archa","Fotografie",11,11,0.229083380274916
+1933,"Archa","Index",11,24,0.541669937746282
+1933,"Archa","Měsíc",11,25,0.264774908327864
+1933,"Archa","Panorama",11,135,0.304877494115923
+1933,"Archa","Ročenka Štencova nakladatelství na rok",11,16,0.0714465563821038
+1933,"Archa","Typografia",11,253,0.446396317930869
+1933,"Archa","Umění",11,117,0.202075339028119
+1933,"Československá fotografie","DerMonat",60,56,0.317413544583253
+1933,"Československá fotografie","Fotografický obzor",60,85,0.166967899494704
+1933,"Československá fotografie","Fotografie",60,11,0.431005643206058
+1933,"Československá fotografie","Index",60,24,0.595319743615799
+1933,"Československá fotografie","Měsíc",60,25,0.395589897573692
+1933,"Československá fotografie","Panorama",60,135,0.431932232402436
+1933,"Československá fotografie","Ročenka Štencova nakladatelství na rok",60,16,0.221676271037681
+1933,"Československá fotografie","Typografia",60,253,0.507997920456239
+1933,"Československá fotografie","Umění",60,117,0.301069131410113
+1933,"DerMonat","Fotografický obzor",56,85,0.15597336025653
+1933,"DerMonat","Fotografie",56,11,0.157944281921946
+1933,"DerMonat","Index",56,24,0.248467491735747
+1933,"DerMonat","Měsíc",56,25,0.0702284144369005
+1933,"DerMonat","Panorama",56,135,0.0889792824047109
+1933,"DerMonat","Ročenka Štencova nakladatelství na rok",56,16,0.288322611678035
+1933,"DerMonat","Typografia",56,253,0.16800362883592
+1933,"DerMonat","Umění",56,117,0.128280468300167
+1933,"Fotografický obzor","Fotografie",85,11,0.2911058988889
+1933,"Fotografický obzor","Index",85,24,0.277425192362259
+1933,"Fotografický obzor","Měsíc",85,25,0.213429441635563
+1933,"Fotografický obzor","Panorama",85,135,0.178384625131512
+1933,"Fotografický obzor","Ročenka Štencova nakladatelství na rok",85,16,0.340878712401555
+1933,"Fotografický obzor","Typografia",85,253,0.19877508441043
+1933,"Fotografický obzor","Umění",85,117,0.24060966257248
+1933,"Fotografie","Index",11,24,0.462064670040203
+1933,"Fotografie","Měsíc",11,25,0.262134755387924
+1933,"Fotografie","Panorama",11,135,0.181495871826298
+1933,"Fotografie","Ročenka Štencova nakladatelství na rok",11,16,0.285325079496658
+1933,"Fotografie","Typografia",11,253,0.325956776163209
+1933,"Fotografie","Umění",11,117,0.106986296399435
+1933,"Index","Měsíc",24,25,0.222618298857219
+1933,"Index","Panorama",24,135,0.146291792930371
+1933,"Index","Ročenka Štencova nakladatelství na rok",24,16,0.65809448956988
+1933,"Index","Typografia",24,253,0.0754248844843678
+1933,"Index","Umění",24,117,0.445974565475042
+1933,"Měsíc","Panorama",25,135,0.120847355377203
+1933,"Měsíc","Ročenka Štencova nakladatelství na rok",25,16,0.297806504297836
+1933,"Měsíc","Typografia",25,253,0.160339637937742
+1933,"Měsíc","Umění",25,117,0.282071061387312
+1933,"Panorama","Ročenka Štencova nakladatelství na rok",135,16,0.42448282568332
+1933,"Panorama","Typografia",135,253,0.0862275375138603
+1933,"Panorama","Umění",135,117,0.178928744102398
+1933,"Ročenka Štencova nakladatelství na rok","Typografia",16,253,0.558289396734113
+1933,"Ročenka Štencova nakladatelství na rok","Umění",16,117,0.314718946289739
+1933,"Typografia","Umění",253,117,0.343275895551832
+1934,"Archa","Československá fotografie",14,70,0.281057219350037
+1934,"Archa","DerMonat",14,103,0.348249030164313
+1934,"Archa","Fotografický obzor",14,142,0.3467473616732
+1934,"Archa","Fotografie",14,479,0.411278184185942
+1934,"Archa","Index",14,38,0.526845956812825
+1934,"Archa","Kvart",14,8,0.31332205164252
+1934,"Archa","Magazín DP",14,203,0.265762592505084
+1934,"Archa","Panorama",14,127,0.333669262307366
+1934,"Archa","Typografia",14,318,0.523596319534818
+1934,"Archa","Umění",14,686,0.188848182280691
+1934,"Archa","Volné směry",14,206,0.226530447031781
+1934,"Československá fotografie","DerMonat",70,103,0.442656909855043
+1934,"Československá fotografie","Fotografický obzor",70,142,0.178514987710604
+1934,"Československá fotografie","Fotografie",70,479,0.370387169295353
+1934,"Československá fotografie","Index",70,38,0.587672409422327
+1934,"Československá fotografie","Kvart",70,8,0.500035910377259
+1934,"Československá fotografie","Magazín DP",70,203,0.331560112029983
+1934,"Československá fotografie","Panorama",70,127,0.390161050640224
+1934,"Československá fotografie","Typografia",70,318,0.525558991948845
+1934,"Československá fotografie","Umění",70,686,0.219363912035726
+1934,"Československá fotografie","Volné směry",70,206,0.147500272916048
+1934,"DerMonat","Fotografický obzor",103,142,0.192261745434271
+1934,"DerMonat","Fotografie",103,479,0.0641998974001242
+1934,"DerMonat","Index",103,38,0.166854371444677
+1934,"DerMonat","Kvart",103,8,0.24479194046754
+1934,"DerMonat","Magazín DP",103,203,0.0945992390959177
+1934,"DerMonat","Panorama",103,127,0.0455780136168315
+1934,"DerMonat","Typografia",103,318,0.0472295182070077
+1934,"DerMonat","Umění",103,686,0.155957906568568
+1934,"DerMonat","Volné směry",103,206,0.277414656084635
+1934,"Fotografický obzor","Fotografie",142,479,0.149000448787339
+1934,"Fotografický obzor","Index",142,38,0.376714292963068
+1934,"Fotografický obzor","Kvart",142,8,0.442256168120578
+1934,"Fotografický obzor","Magazín DP",142,203,0.164265508808196
+1934,"Fotografický obzor","Panorama",142,127,0.188528343698402
+1934,"Fotografický obzor","Typografia",142,318,0.232642515237574
+1934,"Fotografický obzor","Umění",142,686,0.184352331925939
+1934,"Fotografický obzor","Volné směry",142,206,0.157662288533056
+1934,"Fotografie","Index",479,38,0.13243844755965
+1934,"Fotografie","Kvart",479,8,0.350699994697306
+1934,"Fotografie","Magazín DP",479,203,0.120963207574444
+1934,"Fotografie","Panorama",479,127,0.0615980001644204
+1934,"Fotografie","Typografia",479,318,0.0505509020667223
+1934,"Fotografie","Umění",479,686,0.16232121467516
+1934,"Fotografie","Volné směry",479,206,0.271671089266455
+1934,"Index","Kvart",38,8,0.278080838516936
+1934,"Index","Magazín DP",38,203,0.212603935503052
+1934,"Index","Panorama",38,127,0.115107528381815
+1934,"Index","Typografia",38,318,0.143445051865832
+1934,"Index","Umění",38,686,0.238494861298526
+1934,"Index","Volné směry",38,206,0.390820347545291
+1934,"Kvart","Magazín DP",8,203,0.167029446961904
+1934,"Kvart","Panorama",8,127,0.185598536200858
+1934,"Kvart","Typografia",8,318,0.336100637090281
+1934,"Kvart","Umění",8,686,0.15588203609661
+1934,"Kvart","Volné směry",8,206,0.206453470892569
+1934,"Magazín DP","Panorama",203,127,0.0400217047825243
+1934,"Magazín DP","Typografia",203,318,0.154951955361425
+1934,"Magazín DP","Umění",203,686,0.0989675031469292
+1934,"Magazín DP","Volné směry",203,206,0.133203011223256
+1934,"Panorama","Typografia",127,318,0.085047616471002
+1934,"Panorama","Umění",127,686,0.0985976193066179
+1934,"Panorama","Volné směry",127,206,0.199753169797829
+1934,"Typografia","Umění",318,686,0.262096960649864
+1934,"Typografia","Volné směry",318,206,0.381649392377015
+1934,"Umění","Volné směry",686,206,0.0970043194080469
+1935,"Archa","Československá fotografie",6,51,0.559743516267343
+1935,"Archa","Fotografický obzor",6,136,0.419731693200803
+1935,"Archa","Fotografie",6,461,0.428197348616959
+1935,"Archa","Index",6,70,0.510425253356766
+1935,"Archa","Kvart",6,8,0.346573590279973
+1935,"Archa","Magazín DP",6,127,0.143364052800684
+1935,"Archa","Typografia",6,351,0.402453736540625
+1935,"Archa","Umění",6,97,0.200958857656858
+1935,"Československá fotografie","Fotografický obzor",51,136,0.138729512931336
+1935,"Československá fotografie","Fotografie",51,461,0.411860431202778
+1935,"Československá fotografie","Index",51,70,0.557280538021585
+1935,"Československá fotografie","Kvart",51,8,0.281464917207975
+1935,"Československá fotografie","Magazín DP",51,127,0.406421797681803
+1935,"Československá fotografie","Typografia",51,351,0.527288679647495
+1935,"Československá fotografie","Umění",51,97,0.340631020949825
+1935,"Fotografický obzor","Fotografie",136,461,0.16198938475742
+1935,"Fotografický obzor","Index",136,70,0.295121350664421
+1935,"Fotografický obzor","Kvart",136,8,0.274327398556163
+1935,"Fotografický obzor","Magazín DP",136,127,0.216125857253197
+1935,"Fotografický obzor","Typografia",136,351,0.259739895991702
+1935,"Fotografický obzor","Umění",136,97,0.265524647348502
+1935,"Fotografie","Index",461,70,0.108613541154303
+1935,"Fotografie","Kvart",461,8,0.388587880518031
+1935,"Fotografie","Magazín DP",461,127,0.153291378481203
+1935,"Fotografie","Typografia",461,351,0.0731221548511921
+1935,"Fotografie","Umění",461,97,0.237311614789058
+1935,"Index","Kvart",70,8,0.521916243308328
+1935,"Index","Magazín DP",70,127,0.2687299304125
+1935,"Index","Typografia",70,351,0.0470590871454206
+1935,"Index","Umění",70,97,0.405549834498214
+1935,"Kvart","Magazín DP",8,127,0.301685501617449
+1935,"Kvart","Typografia",8,351,0.469678656599952
+1935,"Kvart","Umění",8,97,0.244541405097992
+1935,"Magazín DP","Typografia",127,351,0.151933169501837
+1935,"Magazín DP","Umění",127,97,0.107627991326861
+1935,"Typografia","Umění",351,97,0.304300844480698
+1936,"Archa","Československá fotografie",11,65,0.32443709047565
+1936,"Archa","Fotografický obzor",11,157,0.356117994409004
+1936,"Archa","Fotografie",11,177,0.368156162810242
+1936,"Archa","Index",11,40,0.520676830787666
+1936,"Archa","Magazín DP",11,88,0.22008777814025
+1936,"Archa","Surrealismus",11,34,0.440765102617601
+1936,"Archa","Typografia",11,385,0.457550725015318
+1936,"Archa","Umění",11,637,0.169757762301848
+1936,"Archa","Volné směry",11,5,0.602807344261001
+1936,"Československá fotografie","Fotografický obzor",65,157,0.204940319485723
+1936,"Československá fotografie","Fotografie",65,177,0.364739076588952
+1936,"Československá fotografie","Index",65,40,0.543660270719171
+1936,"Československá fotografie","Magazín DP",65,88,0.315524494964716
+1936,"Československá fotografie","Surrealismus",65,34,0.532129773576475
+1936,"Československá fotografie","Typografia",65,385,0.519215658255438
+1936,"Československá fotografie","Umění",65,637,0.297662213314238
+1936,"Československá fotografie","Volné směry",65,5,0.34339523746092
+1936,"Fotografický obzor","Fotografie",157,177,0.101235479946496
+1936,"Fotografický obzor","Index",157,40,0.288152243667634
+1936,"Fotografický obzor","Magazín DP",157,88,0.15815577921167
+1936,"Fotografický obzor","Surrealismus",157,34,0.280132636265032
+1936,"Fotografický obzor","Typografia",157,385,0.252165132110041
+1936,"Fotografický obzor","Umění",157,637,0.241445854560423
+1936,"Fotografický obzor","Volné směry",157,5,0.248019957221805
+1936,"Fotografie","Index",177,40,0.111531926632118
+1936,"Fotografie","Magazín DP",177,88,0.179314101523423
+1936,"Fotografie","Surrealismus",177,34,0.211623324293175
+1936,"Fotografie","Typografia",177,385,0.0814777995051696
+1936,"Fotografie","Umění",177,637,0.252904872998452
+1936,"Fotografie","Volné směry",177,5,0.388750057498312
+1936,"Index","Magazín DP",40,88,0.327466896232948
+1936,"Index","Surrealismus",40,34,0.184422696943351
+1936,"Index","Typografia",40,385,0.0626438577825112
+1936,"Index","Umění",40,637,0.423448679545439
+1936,"Index","Volné směry",40,5,0.538580825825548
+1936,"Magazín DP","Surrealismus",88,34,0.210337214190626
+1936,"Magazín DP","Typografia",88,385,0.290930849012089
+1936,"Magazín DP","Umění",88,637,0.093319727507808
+1936,"Magazín DP","Volné směry",88,5,0.362476437208174
+1936,"Surrealismus","Typografia",34,385,0.217276099770792
+1936,"Surrealismus","Umění",34,637,0.288318730330953
+1936,"Surrealismus","Volné směry",34,5,0.444901029659802
+1936,"Typografia","Umění",385,637,0.390220472633316
+1936,"Typografia","Volné směry",385,5,0.529488468277876
+1936,"Umění","Volné směry",637,5,0.386022174047967
+1937,"Archa","Československá fotografie",14,71,0.312163116624681
+1937,"Archa","Fotografický obzor",14,152,0.366397951112494
+1937,"Archa","Fotografie",14,148,0.242168014700914
+1937,"Archa","Index",14,70,0.181995741186704
+1937,"Archa","Kvart",14,9,0.229621793294443
+1937,"Archa","Magazín DP",14,52,0.224641235580998
+1937,"Archa","Typografia",14,377,0.277701706920605
+1937,"Archa","Umění",14,45,0.219130083225127
+1937,"Archa","Výtvarná výchova",14,98,0.29645034447732
+1937,"Československá fotografie","Fotografický obzor",71,152,0.208501155477836
+1937,"Československá fotografie","Fotografie",71,148,0.411151576640184
+1937,"Československá fotografie","Index",71,70,0.455912201895828
+1937,"Československá fotografie","Kvart",71,9,0.397937322412042
+1937,"Československá fotografie","Magazín DP",71,52,0.437098617171076
+1937,"Československá fotografie","Typografia",71,377,0.5463911103006
+1937,"Československá fotografie","Umění",71,45,0.212811411283666
+1937,"Československá fotografie","Výtvarná výchova",71,98,0.456703165481958
+1937,"Fotografický obzor","Fotografie",152,148,0.170676793988996
+1937,"Fotografický obzor","Index",152,70,0.232756285087067
+1937,"Fotografický obzor","Kvart",152,9,0.451487061942067
+1937,"Fotografický obzor","Magazín DP",152,52,0.28392917929473
+1937,"Fotografický obzor","Typografia",152,377,0.255351686941124
+1937,"Fotografický obzor","Umění",152,45,0.259314747149095
+1937,"Fotografický obzor","Výtvarná výchova",152,98,0.191168690118204
+1937,"Fotografie","Index",148,70,0.10554860225474
+1937,"Fotografie","Kvart",148,9,0.294942559940933
+1937,"Fotografie","Magazín DP",148,52,0.142663251415905
+1937,"Fotografie","Typografia",148,377,0.100060976493878
+1937,"Fotografie","Umění",148,45,0.188041420720217
+1937,"Fotografie","Výtvarná výchova",148,98,0.0613209947421528
+1937,"Index","Kvart",70,9,0.284617142406113
+1937,"Index","Magazín DP",70,52,0.121967100615666
+1937,"Index","Typografia",70,377,0.0693197109747848
+1937,"Index","Umění",70,45,0.249609177032286
+1937,"Index","Výtvarná výchova",70,98,0.0932620307740967
+1937,"Kvart","Magazín DP",9,52,0.195937416167872
+1937,"Kvart","Typografia",9,377,0.43211895122503
+1937,"Kvart","Umění",9,45,0.138864809227376
+1937,"Kvart","Výtvarná výchova",9,98,0.305239481962416
+1937,"Magazín DP","Typografia",52,377,0.237868821651497
+1937,"Magazín DP","Umění",52,45,0.13943392078007
+1937,"Magazín DP","Výtvarná výchova",52,98,0.0783381291818483
+1937,"Typografia","Umění",377,45,0.362664652892035
+1937,"Typografia","Výtvarná výchova",377,98,0.129317057796442
+1937,"Umění","Výtvarná výchova",45,98,0.194119600360702
+1938,"Archa","Československá fotografie",6,68,0.446261711340058
+1938,"Archa","Fotografický obzor",6,119,0.372704241596148
+1938,"Archa","Fotografie",6,227,0.27614564064321
+1938,"Archa","Index",6,11,0.122787558946759
+1938,"Archa","Typografia",6,226,0.335801787028186
+1938,"Archa","Umění",6,248,0.15547361329527
+1938,"Archa","Výtvarná výchova",6,156,0.342546812734912
+1938,"Československá fotografie","Fotografický obzor",68,119,0.22323276948752
+1938,"Československá fotografie","Fotografie",68,227,0.383990905250493
+1938,"Československá fotografie","Index",68,11,0.577495882536039
+1938,"Československá fotografie","Typografia",68,226,0.544191090563517
+1938,"Československá fotografie","Umění",68,248,0.344969564861743
+1938,"Československá fotografie","Výtvarná výchova",68,156,0.495385148775623
+1938,"Fotografický obzor","Fotografie",119,227,0.171942907438257
+1938,"Fotografický obzor","Index",119,11,0.377833074200079
+1938,"Fotografický obzor","Typografia",119,226,0.266308509899253
+1938,"Fotografický obzor","Umění",119,248,0.290780635814259
+1938,"Fotografický obzor","Výtvarná výchova",119,156,0.273574377149467
+1938,"Fotografie","Index",227,11,0.203298289575245
+1938,"Fotografie","Typografia",227,226,0.0482684198255802
+1938,"Fotografie","Umění",227,248,0.146448781919829
+1938,"Fotografie","Výtvarná výchova",227,156,0.0726892215346648
+1938,"Index","Typografia",11,226,0.213411029349562
+1938,"Index","Umění",11,248,0.183010864457961
+1938,"Index","Výtvarná výchova",11,156,0.2285052860013
+1938,"Typografia","Umění",226,248,0.232370510915572
+1938,"Typografia","Výtvarná výchova",226,156,0.0668137982412699
+1938,"Umění","Výtvarná výchova",248,156,0.127869738615703
+1939,"Archa","Architektura",15,675,0.370918508891904
+1939,"Archa","Fotografický obzor",15,100,0.41609872268993
+1939,"Archa","Fotografie",15,116,0.426210494686298
+1939,"Archa","Index",15,6,0.187411259061546
+1939,"Archa","Typografia",15,143,0.508873509439977
+1939,"Archa","Výtvarná výchova",15,192,0.31838392213149
+1939,"Architektura","Fotografický obzor",675,100,0.186081994581287
+1939,"Architektura","Fotografie",675,116,0.0417953585965002
+1939,"Architektura","Index",675,6,0.234466122792148
+1939,"Architektura","Typografia",675,143,0.0699163298264739
+1939,"Architektura","Výtvarná výchova",675,192,0.0423681331368436
+1939,"Fotografický obzor","Fotografie",100,116,0.139469506615774
+1939,"Fotografický obzor","Index",100,6,0.360488172913509
+1939,"Fotografický obzor","Typografia",100,143,0.205638044561475
+1939,"Fotografický obzor","Výtvarná výchova",100,192,0.153418695175162
+1939,"Fotografie","Index",116,6,0.313265896940847
+1939,"Fotografie","Typografia",116,143,0.0462996498056936
+1939,"Fotografie","Výtvarná výchova",116,192,0.0545560600655904
+1939,"Index","Typografia",6,143,0.37474787927459
+1939,"Index","Výtvarná výchova",6,192,0.211040834153907
+1939,"Typografia","Výtvarná výchova",143,192,0.119346195963035
+1940,"Archa","Architektura",13,752,0.22023329170838
+1940,"Archa","Fotografický obzor",13,147,0.311372796987908
+1940,"Archa","Fotografie",13,16,0.12895935956742
+1940,"Archa","Okénko do dílny umělcovy",13,17,0.177513862436684
+1940,"Archa","Pestrý týden",13,7,0.341916043639455
+1940,"Archa","Typografia",13,127,0.248940676964738
+1940,"Archa","Umění",13,732,0.0452040175611874
+1940,"Archa","Výtvarná výchova",13,145,0.160200597844151
+1940,"Architektura","Fotografický obzor",752,147,0.333099437934866
+1940,"Architektura","Fotografie",752,16,0.198960476320849
+1940,"Architektura","Okénko do dílny umělcovy",752,17,0.281127199045519
+1940,"Architektura","Pestrý týden",752,7,0.219659183664203
+1940,"Architektura","Typografia",752,127,0.0204732079912938
+1940,"Architektura","Umění",752,732,0.253301047350337
+1940,"Architektura","Výtvarná výchova",752,145,0.151567310359506
+1940,"Fotografický obzor","Fotografie",147,16,0.319987084106352
+1940,"Fotografický obzor","Okénko do dílny umělcovy",147,17,0.25363544058492
+1940,"Fotografický obzor","Pestrý týden",147,7,0.418207775803967
+1940,"Fotografický obzor","Typografia",147,127,0.324351282406886
+1940,"Fotografický obzor","Umění",147,732,0.308177964732603
+1940,"Fotografický obzor","Výtvarná výchova",147,145,0.214663979065668
+1940,"Fotografie","Okénko do dílny umělcovy",16,17,0.283973716761922
+1940,"Fotografie","Pestrý týden",16,7,0.261539982400419
+1940,"Fotografie","Typografia",16,127,0.236334741324067
+1940,"Fotografie","Umění",16,732,0.17780098714222
+1940,"Fotografie","Výtvarná výchova",16,145,0.179728040207277
+1940,"Okénko do dílny umělcovy","Pestrý týden",17,7,0.21701402622809
+1940,"Okénko do dílny umělcovy","Typografia",17,127,0.283708249762688
+1940,"Okénko do dílny umělcovy","Umění",17,732,0.150221879793071
+1940,"Okénko do dílny umělcovy","Výtvarná výchova",17,145,0.184483040246638
+1940,"Pestrý týden","Typografia",7,127,0.261181498735346
+1940,"Pestrý týden","Umění",7,732,0.366133659383346
+1940,"Pestrý týden","Výtvarná výchova",7,145,0.360239451942458
+1940,"Typografia","Umění",127,732,0.255495931508926
+1940,"Typografia","Výtvarná výchova",127,145,0.152468064957889
+1940,"Umění","Výtvarná výchova",732,145,0.141183602237919
+1941,"Archa","Architektura",6,857,0.295898459566399
+1941,"Archa","Fotografický obzor",6,205,0.458760567063116
+1941,"Archa","Fotografie",6,59,0.282716207224576
+1941,"Archa","Okénko do dílny umělcovy",6,24,0.509332404619305
+1941,"Archa","Typografia",6,26,0.498749403530962
+1941,"Archa","Volné směry",6,222,0.342585384363627
+1941,"Archa","Výtvarná výchova",6,141,0.232188143782706
+1941,"Architektura","Fotografický obzor",857,205,0.361056420395957
+1941,"Architektura","Fotografie",857,59,0.0981656912483669
+1941,"Architektura","Okénko do dílny umělcovy",857,24,0.366042006708266
+1941,"Architektura","Typografia",857,26,0.218916353088234
+1941,"Architektura","Volné směry",857,222,0.306828387417998
+1941,"Architektura","Výtvarná výchova",857,141,0.169012343294599
+1941,"Fotografický obzor","Fotografie",205,59,0.176282296389722
+1941,"Fotografický obzor","Okénko do dílny umělcovy",205,24,0.191507599665064
+1941,"Fotografický obzor","Typografia",205,26,0.488917812937973
+1941,"Fotografický obzor","Volné směry",205,222,0.135056423257264
+1941,"Fotografický obzor","Výtvarná výchova",205,141,0.191904996908474
+1941,"Fotografie","Okénko do dílny umělcovy",59,24,0.23117352996344
+1941,"Fotografie","Typografia",59,26,0.311918132948744
+1941,"Fotografie","Volné směry",59,222,0.144910342647421
+1941,"Fotografie","Výtvarná výchova",59,141,0.0754952373610505
+1941,"Okénko do dílny umělcovy","Typografia",24,26,0.587135210540229
+1941,"Okénko do dílny umělcovy","Volné směry",24,222,0.116770034771543
+1941,"Okénko do dílny umělcovy","Výtvarná výchova",24,141,0.153522930350799
+1941,"Typografia","Volné směry",26,222,0.460938365350141
+1941,"Typografia","Výtvarná výchova",26,141,0.455130238874386
+1941,"Volné směry","Výtvarná výchova",222,141,0.120857904501986
+1942,"Architektura","Fotografický obzor",534,211,0.321017345583581
+1942,"Architektura","Okénko do dílny umělcovy",534,22,0.305028931071951
+1942,"Architektura","Pestrý týden",534,6,0.46904662316776
+1942,"Architektura","Umění",534,248,0.330042524322003
+1942,"Architektura","Umění dneška",534,113,0.378823199825834
+1942,"Architektura","Výtvarná výchova",534,55,0.162399297851754
+1942,"Fotografický obzor","Okénko do dílny umělcovy",211,22,0.213871220782257
+1942,"Fotografický obzor","Pestrý týden",211,6,0.607191839584752
+1942,"Fotografický obzor","Umění",211,248,0.286608113482913
+1942,"Fotografický obzor","Umění dneška",211,113,0.162029793814961
+1942,"Fotografický obzor","Výtvarná výchova",211,55,0.182854113510165
+1942,"Okénko do dílny umělcovy","Pestrý týden",22,6,0.60370375209099
+1942,"Okénko do dílny umělcovy","Umění",22,248,0.0875926465986601
+1942,"Okénko do dílny umělcovy","Umění dneška",22,113,0.12456492812023
+1942,"Okénko do dílny umělcovy","Výtvarná výchova",22,55,0.151180278457899
+1942,"Pestrý týden","Umění",6,248,0.635885047579251
+1942,"Pestrý týden","Umění dneška",6,113,0.693147180559945
+1942,"Pestrý týden","Výtvarná výchova",6,55,0.493060744369164
+1942,"Umění","Umění dneška",248,113,0.158875161141756
+1942,"Umění","Výtvarná výchova",248,55,0.147565599100573
+1942,"Umění dneška","Výtvarná výchova",113,55,0.153823129154449
+1943,"Fotografický obzor","Umění",150,355,0.250943623408975
+1943,"Fotografický obzor","Umění dneška",150,118,0.163151075018339
+1943,"Fotografický obzor","Výtvarná výchova",150,88,0.136208791840461
+1943,"Umění","Umění dneška",355,118,0.0868109043938334
+1943,"Umění","Výtvarná výchova",355,88,0.118494752918455
+1943,"Umění dneška","Výtvarná výchova",118,88,0.104366465780701
+1944,"Fotografický obzor","Umění",145,254,0.183503588954976
+1944,"Fotografický obzor","Výtvarná výchova",145,36,0.118093722292596
+1944,"Umění","Výtvarná výchova",254,36,0.0869551907484223
+1945,"Archa","Architektura ČSR",18,420,0.328685188613481
+1945,"Archa","Kvart",18,24,0.266048250980509
+1945,"Archa","Kytice",18,10,0.173084232934107
+1945,"Archa","Umění",18,246,0.0442516597978122
+1945,"Archa","Umění dneška",18,58,0.212572780532439
+1945,"Architektura ČSR","Kvart",420,24,0.468575635341853
+1945,"Architektura ČSR","Kytice",420,10,0.375044120605903
+1945,"Architektura ČSR","Umění",420,246,0.25199242744456
+1945,"Architektura ČSR","Umění dneška",420,58,0.378299675901579
+1945,"Kvart","Kytice",24,10,0.0925836704799369
+1945,"Kvart","Umění",24,246,0.255940732551347
+1945,"Kvart","Umění dneška",24,58,0.0743683198391404
+1945,"Kytice","Umění",10,246,0.194119076057573
+1945,"Kytice","Umění dneška",10,58,0.165378793981213
+1945,"Umění","Umění dneška",246,58,0.170149760958799
+1946,"Blok","Kytice",145,39,0.1497116154241
+1946,"Blok","Okénko do dílny umělcovy",145,12,0.241905362322893
+1946,"Blok","Typografia",145,100,0.143153275467988
+1946,"Blok","Umění",145,64,0.0829181653429508
+1946,"Blok","Umění dneška",145,102,0.358151034577818
+1946,"Kytice","Okénko do dílny umělcovy",39,12,0.294676119688166
+1946,"Kytice","Typografia",39,100,0.236937262938065
+1946,"Kytice","Umění",39,64,0.136054096894294
+1946,"Kytice","Umění dneška",39,102,0.20270149250062
+1946,"Okénko do dílny umělcovy","Typografia",12,100,0.253242876831915
+1946,"Okénko do dílny umělcovy","Umění",12,64,0.189216426942917
+1946,"Okénko do dílny umělcovy","Umění dneška",12,102,0.475695601881511
+1946,"Typografia","Umění",100,64,0.166819531721708
+1946,"Typografia","Umění dneška",100,102,0.325537935836905
+1946,"Umění","Umění dneška",64,102,0.292518256703043
+1947,"Blok","Kytice",621,51,0.161190167359765
+1947,"Blok","Okénko do dílny umělcovy",621,16,0.21150738105866
+1947,"Blok","Typografia",621,156,0.106475175048232
+1947,"Blok","Volné směry",621,7,0.381420249283708
+1947,"Kytice","Okénko do dílny umělcovy",51,16,0.156594093505628
+1947,"Kytice","Typografia",51,156,0.309864785805668
+1947,"Kytice","Volné směry",51,7,0.163260542702247
+1947,"Okénko do dílny umělcovy","Typografia",16,156,0.315775754877404
+1947,"Okénko do dílny umělcovy","Volné směry",16,7,0.235962631964317
+1947,"Typografia","Volné směry",156,7,0.527707987210933
+1948,"Archa","Blok",49,508,0.259780404018885
+1948,"Archa","Kytice",49,33,0.117541655905416
+1948,"Archa","Okénko do dílny umělcovy",49,18,0.138897535248901
+1948,"Archa","Typografia",49,147,0.34243523889514
+1948,"Blok","Kytice",508,33,0.117888833534126
+1948,"Blok","Okénko do dílny umělcovy",508,18,0.243648231759743
+1948,"Blok","Typografia",508,147,0.109065841913217
+1948,"Kytice","Okénko do dílny umělcovy",33,18,0.172924104693375
+1948,"Kytice","Typografia",33,147,0.276943501781135
+1948,"Okénko do dílny umělcovy","Typografia",18,147,0.290624737786013
+1949,"Blok","Okénko do dílny umělcovy",440,7,0.209268884189708
+1949,"Blok","Typografia",440,158,0.0839164540466236
+1949,"Blok","Umění",440,46,0.154637069588534
+1949,"Okénko do dílny umělcovy","Typografia",7,158,0.371130759519384
+1949,"Okénko do dílny umělcovy","Umění",7,46,0.319990790967922
+1949,"Typografia","Umění",158,46,0.167588376646246

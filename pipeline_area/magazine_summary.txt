@@ -1,0 +1,44 @@
+"magazine"	"first_year"	"last_year"	"n_volumes"	"n_issues"	"n_reproductions"
+"Fotografický obzor"	1900	1944	33	167	3213
+"Nový kult"	1900	1904	4	30	80
+"Nový život"	1900	1907	8	75	489
+"Volné směry"	1900	1947	33	38	675
+"Typografia"	1901	1950	41	109	5628
+"Wir"	1906	1906	1	2	5
+"Umelecky_mesicnik"	1911	1914	3	22	491
+"Archa"	1912	1948	29	131	724
+"Topičův sborník literární a umělecký"	1913	1926	13	158	1778
+"Umění"	1918	1949	17	62	5833
+"Drobné umění"	1920	1925	6	52	1017
+"Musaion"	1920	1927	5	5	160
+"Stavitel"	1920	1921	1	8	216
+"Styl_(Spolek_vytvarnych_umelcu_Manes"	1920	1921	1	1	34
+"Výtvarná práce"	1921	1926	4	19	999
+"Host"	1922	1924	3	13	22
+"Revolucni_sbornik_Devetsil"	1922	1922	1	1	42
+"Disk"	1923	1925	1	2	33
+"Bytová kultura"	1924	1925	1	7	375
+"Pestrý týden"	1926	1944	9	25	29
+"Výtvarné snahy"	1926	1930	5	37	1061
+"Nové směry"	1927	1932	5	32	1417
+"Panorama"	1927	1934	8	70	1094
+"Index"	1929	1939	11	100	497
+"Plan"	1929	1932	2	10	31
+"Aventinský magazín"	1930	1932	2	18	1458
+"Kvart"	1930	1946	4	16	67
+"Ročenka Štencova nakladatelství na rok"	1930	1933	3	3	58
+"Byt_a_umeni"	1931	1931	1	6	301
+"Československá fotografie"	1931	1938	8	8	519
+"Jak_zijeme"	1932	1933	1	9	272
+"Měsíc"	1932	1933	2	13	399
+"DerMonat"	1933	1934	1	6	159
+"Fotografie"	1933	1941	6	130	1694
+"Magazín DP"	1933	1937	4	38	470
+"Surrealismus"	1936	1936	1	1	34
+"Výtvarná výchova"	1937	1944	7	25	911
+"Architektura"	1939	1942	4	8	2818
+"Okénko do dílny umělcovy"	1940	1949	5	24	116
+"Umění dneška"	1942	1946	3	10	391
+"Architektura ČSR"	1945	1946	1	1	420
+"Kytice"	1945	1948	3	30	133
+"Blok"	1946	1949	3	24	1714
